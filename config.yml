@@ -5,7 +5,7 @@ version: 0.3.5 # NO TOCAR
 
 # Configuración Global
 html:
-  title: Links |Adri # Este es el Título que aparece en la pestaña de navegador
+  title: Links | Adri # Este es el Título que aparece en la pestaña de navegador
 
 # Colores de plantilla
 theme:
@@ -14,7 +14,7 @@ theme:
 
 # Configuración Central
 main:
-  title:Adri # Aca podes poner tu nombre o el de tu producto
+  title: Adri # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
